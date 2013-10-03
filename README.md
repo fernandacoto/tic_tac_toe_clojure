@@ -14,9 +14,9 @@ and generate the jar file.
 
 To run this program you should have installed Lein, if you haven't go to : http://zef.me/2470/building-clojure-projects-with-leiningen
 The steps to run this are:
-1. Open cmd and go to the directory *tic_tac_toe_clojure*
-2. Write in the cmd *lein uberjar*
-3. After that go to the target folder that has been created and write *java -jar name_of_the_jar_file_generated*
+* Open cmd and go to the directory *tic_tac_toe_clojure*
+* Write in the cmd *lein uberjar*
+* After that go to the target folder that has been created and write *java -jar name_of_the_jar_file_generated*
 
 
 ----
