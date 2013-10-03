@@ -4,8 +4,8 @@ This repository contains a simple tic tac toe made in clojure.
 There are 2 folders:
 * src:
     Into here, there's another folder named tic_tac_toe, in that folder there are 2 files:
-      *core.clj : This manages the logic of the game and menu.
-      *winner.clj : This contains the logic of how a player can win
+      * core.clj : This manages the logic of the game and menu.
+      * winner.clj : This contains the logic of how a player can win
 * target:
     This folder contains the .jar file, which is the executable
 
